@@ -35,3 +35,10 @@ Los modulos estan dividos en clases en archivo .ipynb (notebooks)
 
 1. Clona este repositorio
 2. Instala las dependencias necesarias:
+
+```bash
+pip install -r requirements.txt
+```
+
+Puedes unirte al servidor de discord para preguntas, dudas o retroalimentacion del curso:
+[Server Discord](https://discord.gg/C93tp4HkqN)
