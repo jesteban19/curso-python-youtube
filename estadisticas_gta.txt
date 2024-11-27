@@ -1,0 +1,4 @@
+Misión: Golpe al Banco
+Dinero ganado: $20000
+Misión: Robo de Joyas
+Dinero ganado: $15000
